@@ -63,12 +63,12 @@ Represent the distribution of customers based on the number of orders they have 
 
 # Design & Interactivity Requirements
 ## Dashboard Dynamic
-- The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year
-- Provide users with the ability to navigate between the dashboards easily
-- Make the charts and graphs interactive, enabling users to filter data using the charts
+- The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year (Parameters)
+- Provide users with the ability to navigate between the dashboards easily (buttons)
+- Make the charts and graphs interactive, enabling users to filter data using the charts (filter action)
 
 ## Data Filters
-Allow users to filter data by product information like category and subcategory and by location information like region, state, and city
+Allow users to filter data by product information like category and subcategory and by location information like region, state, and city (quick filters)
 
 ///
 
