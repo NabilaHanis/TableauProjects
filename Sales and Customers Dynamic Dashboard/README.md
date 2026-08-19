@@ -216,4 +216,5 @@ Tableau is a powerful data visualization tool that allows flexible changes in ea
 Please feel free to play with the whole dashboard on Tableau Public.
 
 ref - https://medium.com/@ChunChengTsai/tableau-project-analyzing-customers-in-the-us-92ef573588d8
+ref - https://www.linkedin.com/pulse/analysis-british-airways-customer-reviews-tableau-sarah-rajani-ctp-junxc/
 -->
