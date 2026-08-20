@@ -1,7 +1,7 @@
 # 🪑 Sales & Customer Dynamic Dashboard
 
 
-## 📚 🗃️ 🗂️ Case Study
+## 📚 🗃️ Case Study
 
 ## 📌 Table of Content
 - Objectives & Highlight
