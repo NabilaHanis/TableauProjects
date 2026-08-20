@@ -15,7 +15,7 @@
 
 ## 🎯 KPI Overview
 
-## 🔎 Data Wrangling
+## 🔍 Data Wrangling
 
 ## 📊 Data Visualization
 
