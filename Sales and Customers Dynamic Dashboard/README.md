@@ -4,6 +4,12 @@
 ## 📚 Case Study
 
 ## 📌 Table of Content
+- Objectives & Highlight
+- KPI Overview
+- Data Wrangling
+- Data Visualization
+- Business Insights and Recommendations
+- Thank you
 
 ## 💡 Objectives & Highlight
 
