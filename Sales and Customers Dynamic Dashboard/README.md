@@ -1,6 +1,6 @@
-# 🛋️ Sales & Customer Dynamic Dashboard
+# 🛋️ 🪑 Sales & Customer Dynamic Dashboard
 
-<!--
+
 ## 📚 Case Study
 
 ## 📌 Table of Content
@@ -19,6 +19,8 @@
 Thank you for your time and interest
 Please do share your opinions, views and feedbacks in the comments section
 -End of Note by Nabila Hanis-
+
+<!--
 
 Key takeaways from this endeavor:
 ✅ Crafting KPI cards through calculated fields (e.g., YoY growth %, 
