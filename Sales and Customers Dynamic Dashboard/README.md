@@ -1,4 +1,4 @@
-# 🛋️ 🪑 Sales & Customer Dynamic Dashboard
+# 🪑 Sales & Customer Dynamic Dashboard
 
 
 ## 📚 Case Study
