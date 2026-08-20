@@ -16,8 +16,8 @@
 ## 📝 Business Insights and Recommendations
 
 ## ⭐ Thank you
-Thank you for your time and interest /
-Please do share your opinions, views and feedbacks in the comments section /
+Thank you for your time and interest  
+Please do share your opinions, views and feedbacks in the comments section  
 -End of Note by Nabila Hanis-
 
 <!--
