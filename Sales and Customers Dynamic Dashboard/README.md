@@ -4,7 +4,7 @@
 ## 📚 🗃️ Case Study
 
 ## 📌 Table of Content
-- (Objectives and Highlight)[#objective-and-highlight]
+- [Objectives and Highlight](#objective-and-highlight)
 - (KPI Overview)[#kpi-overview]
 - (Data Wrangling)[#data-wrangling]
 - (Data Visualization)[#data-visualization]
