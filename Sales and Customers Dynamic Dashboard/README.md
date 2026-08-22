@@ -5,11 +5,11 @@
 
 ## 📌 Table of Content
 - [Objectives and Highlight](#objective-and-highlight)
-- (KPI Overview)[#kpi-overview]
-- (Data Wrangling)[#data-wrangling]
-- (Data Visualization)[#data-visualization]
-- (Business Insights and Recommendations)[#business-insights-and-recommendations]
-- (Thank you)[#thank-you]
+- [KPI Overview](#kpi-overview)
+- [Data Wrangling](#data-wrangling)
+- [Data Visualization](#data-visualization)
+- [Business Insights and Recommendations](#business-insights-and-recommendations)
+- [Thank you](#thank-you)
 
 ## 💡 Objectives and Highlight
 
@@ -22,7 +22,7 @@
 ## 📝 Business Insights and Recommendations
 
 ## ⭐ Thank you
-Thank you for your time and interest  
+Thank you for your time and interest. Please feel free to reach out to me if you have any questions  
  
 
 
