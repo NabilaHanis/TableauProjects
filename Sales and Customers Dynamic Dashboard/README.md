@@ -13,6 +13,19 @@
 
 ## 💡 Objectives and Highlight
 
+ <!--
+ A client requested an interactive dashboard that delivers a centralized, data-driven view of visualized data, customer behavior, and sales trend over a four year period. This dashboard will designed for executives, marketing team, stakeholders, and management to gain insights that support informed, data-driven decision-making and strategic planning. This dashboard will present an overview trends, monitor performance, uncover growth opportunities, and gain actionable insights that support informed, data-driven decision making and stragetic planning.
+
+Objectives:
+
+•	Monitor sales performance and business growth.
+•	Analyze customer behavior and engagement trends.
+•	Identify opportunities, risks, and emerging patterns.
+•	Support data-driven decision-making across the organization.
+•	Enable more effective sales, marketing, and customer retention strategies.
+
+-->
+
 ## 🎯 KPI Overview
 
 ## 🔍 Data Wrangling
@@ -23,7 +36,8 @@
 
 ## ⭐ Thank you
 Thank you for your time and interest. Please feel free to reach out to me if you have any questions  
- 
+
+
 
 
 -End of Note by Nabila Hanis-
