@@ -18,7 +18,6 @@ A ‘N’ company is a regional office supply retailer serving customers across 
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
 - Provide clients with the ability to navigate between the dashboards easily
 - Make the charts and graphs interactive, enabling clients to filter data using the charts
-- Make the charts and graphs interactive, enabling clients to filter data using the charts
 - Provide clients with the ability to navigate between the dashboards easily
 
 
