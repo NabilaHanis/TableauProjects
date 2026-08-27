@@ -2,6 +2,7 @@
 
 
 ## 📚 Case Study
+A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
 
 ## 📌 Table of Content
 - [Business Context and Objectives](#business-context-and-objective)
@@ -12,7 +13,7 @@
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
+The primary goal of this dashboard was to provide a holistic view of sales and customer behavior across multiple years. It allows business users to analyze trends and patterns of sales and customers data in The USA
 
 ### Objectives:
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
