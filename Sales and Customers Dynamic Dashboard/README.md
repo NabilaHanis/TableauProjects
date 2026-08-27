@@ -17,7 +17,6 @@
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
 - Provide clients with the ability to navigate between the dashboards easily
 - Make the charts and graphs interactive, enabling clients to filter data using the charts
-- The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
 - Make the charts and graphs interactive, enabling clients to filter data using the charts
 - Provide clients with the ability to navigate between the dashboards easily
 
