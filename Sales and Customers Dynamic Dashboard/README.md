@@ -12,6 +12,7 @@
 - [Thank you](#thank-you)
 
 ## 💡 Objectives and Highlight
+A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
 
 ### Objectives:
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
