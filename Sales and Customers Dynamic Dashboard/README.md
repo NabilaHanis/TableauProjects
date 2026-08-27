@@ -15,7 +15,7 @@ This client requested an interactive dashboard that delivers an overview of the 
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-The primary goal of this dashboard was to provide a holistic overview of sales trend and customer behavior across multiple years. This will help stakeholders, executives and marketing team to understand customer segments and improve customer satisfaction and retention.
+The primary goal of this dashboard was to provide a holistic overview of sales trend and customer behavior across multiple years. This will help stakeholders, executives, and marketing team to understand customer segments and improve customer satisfaction and retention.
 
 ### Objectives:
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
@@ -38,6 +38,7 @@ Objectives:
 -->
 
 ## 🎯 KPI Overview
+- 
 
 ## 🔍 Data Wrangling
 
