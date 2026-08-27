@@ -6,7 +6,7 @@ A ‘N’ company is a regional office supply retailer serving customers across 
 
 This client requested an interactive dashboard that delivers an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends and customer behaviours. 
 
-## 📌 Table of Content
+## 📌 Table of Contents
 - [Business Context and Objectives](#business-context-and-objective)
 - [Key Requirements](#key-requirements)
 - [Data Wrangling](#data-wrangling)
