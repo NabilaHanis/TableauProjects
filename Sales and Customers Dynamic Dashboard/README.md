@@ -4,6 +4,8 @@
 ## 📚 Case Study
 A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
 
+This client requested an interactive dashboard that delivers an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends and customer behaviours. 
+
 ## 📌 Table of Content
 - [Business Context and Objectives](#business-context-and-objective)
 - [KPI Overview](#kpi-overview)
@@ -13,7 +15,7 @@ A ‘N’ company is a regional office supply retailer serving customers across 
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-The primary goal of this dashboard was to provide a holistic view of sales and customer behavior across multiple years. It allows business users to analyze trends and patterns of sales and customers data in The USA
+The primary goal of this dashboard was to provide a holistic view of sales and customer behavior across multiple years. It allows business users to analyze trends and patterns of sales and customers data in the USA
 
 ### Objectives:
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
