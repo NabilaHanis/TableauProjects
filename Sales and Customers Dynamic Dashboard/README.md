@@ -4,14 +4,14 @@
 ## 📚 Case Study
 
 ## 📌 Table of Content
-- [Objectives and Highlight](#objective-and-highlight)
+- [Business Context and Objectives](#business-context-and-objective)
 - [KPI Overview](#kpi-overview)
 - [Data Wrangling](#data-wrangling)
 - [Data Visualization](#data-visualization)
 - [Business Insights and Recommendations](#business-insights-and-recommendations)
 - [Thank you](#thank-you)
 
-## 💡 Objectives and Highlight
+## 💡 Business Context and Objectives
 A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
 
 ### Objectives:
