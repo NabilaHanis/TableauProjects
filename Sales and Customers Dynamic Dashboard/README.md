@@ -1,7 +1,7 @@
 # 🪑 Sales & Customer Dynamic Dashboard
 
 
-## 📚 🗃️ Case Study
+## 📚 Case Study
 
 ## 📌 Table of Content
 - [Objectives and Highlight](#objective-and-highlight)
@@ -12,6 +12,15 @@
 - [Thank you](#thank-you)
 
 ## 💡 Objectives and Highlight
+
+### Objectives:
+•	The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
+•	Provide clients with the ability to navigate between the dashboards easily
+•	Make the charts and graphs interactive, enabling clients to filter data using the charts
+•	The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
+•	Make the charts and graphs interactive, enabling clients to filter data using the charts
+•	Provide clients with the ability to navigate between the dashboards easily
+
 
  <!--
  A client requested an interactive dashboard that delivers a centralized, data-driven view of visualized data, customer behavior, and sales trend over a four year period. This dashboard will designed for executives, marketing team, stakeholders, and management to gain insights that support informed, data-driven decision-making and strategic planning. This dashboard will present an overview trends, monitor performance, uncover growth opportunities, and gain actionable insights that support informed, data-driven decision making and stragetic planning.
