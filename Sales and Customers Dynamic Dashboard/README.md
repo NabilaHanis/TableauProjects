@@ -8,7 +8,7 @@ This client requested an interactive dashboard that delivers an overview of the 
 
 ## 📌 Table of Content
 - [Business Context and Objectives](#business-context-and-objective)
-- [KPI Overview](#kpi-overview)
+- [Key Requirements](#key-requirements)
 - [Data Wrangling](#data-wrangling)
 - [Data Visualization](#data-visualization)
 - [Business Insights and Recommendations](#business-insights-and-recommendations)
@@ -37,8 +37,8 @@ Objectives:
 
 -->
 
-## 🎯 KPI Overview
-- 
+## 🎯 Key Requirements
+- KPI Overview
 
 ## 🔍 Data Wrangling
 
