@@ -43,6 +43,7 @@ Objectives:
 ## 🔍 Data Wrangling
 
 ## 📊 Data Visualization
+Feel free to explore and interact with the [Dashboard here](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
 
 ## 📝 Business Insights and Recommendations
 
