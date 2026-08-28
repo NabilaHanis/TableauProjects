@@ -2,9 +2,10 @@
 
 
 ## 📚 Case Study
-A ‘N’ company is a regional office supply retailer serving customers across multiple USA regions. The store specializes in office furniture and supplies such as chairs, tables, machines, bookcases, storage, binders, labels, envelopes, and etc.
+N Company is a regional office supply retailer serving customers across multiple regions in the United States. The company offers a wide range of office products and furnishings, including desks, chairs, tables, office equipment, bookcases, storage solutions, binders, labels, envelopes, and other workplace essentials.
 
-This client requested an interactive dashboard that delivers an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends and customer behaviours. 
+The client requested the development of an interactive dashboard that provides a comprehensive view of key sales metrics and performance trends. The dashboard is designed to help stakeholders evaluate year-over-year sales performance, identify emerging trends, analyze customer purchasing behavior, and support data-driven business decisions
+
 
 ## 📌 Table of Contents
 - [Business Context and Objectives](#business-context-and-objective)
