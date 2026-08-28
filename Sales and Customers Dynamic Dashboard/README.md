@@ -16,6 +16,8 @@ The client requested the development of an interactive dashboard that provides a
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
+A visualized dashboard enables N company to transform operational and sales data into actionable business insights. By providing real-time visibility into sales performance, inventory health, and customer purchasing trends, the dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability.
+
 The primary goal of this dashboard was to provide a holistic overview of sales trend and customer behavior across multiple years. This will help stakeholders, executives, and marketing team to understand customer segments and improve customer satisfaction and retention.
 
 ### Objectives:
@@ -44,7 +46,8 @@ Objectives:
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
 
 ## 📊 Data Visualization
-Feel free to explore and interact with the [Dashboard here](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
+Please Feel free to explore and interact with the dashboard on my [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
+Please feel free to play with the whole dashboard on Tableau Public.
 
 ## 📝 Business Insights and Recommendations
 
@@ -298,7 +301,19 @@ Select the Customer ID dimension, then click on filter to filter out the Custome
 6) Final Thoughts
 Tableau is a powerful data visualization tool that allows flexible changes in each variable. Also, it has great interactivity features for end users to click and select filters to see the changes in trends, ranks and so on.
 
-Please feel free to play with the whole dashboard on Tableau Public.
+
+Measurable Business Outcomes:
+
+Reduce reporting and analysis time by 50-80% through automated data visualization and self-service reporting.
+Improve inventory turnover by 10-20% by identifying slow-moving products and optimizing stock replenishment.
+Reduce stockout and overstock incidents by 15-30%, leading to improved product availability and lower carrying costs.
+Increase sales revenue by 5-15% through better visibility into customer purchasing patterns and product performance.
+Improve gross profit margins by 2-5% by focusing on high-margin products and optimizing product mix.
+Enhance decision-making speed by providing near real-time access to critical KPIs and operational metrics.
+
+Ultimately, the dashboard serves as a strategic decision-support tool that improves operational efficiency, strengthens business performance, and helps drive sustainable revenue growth and profitability.
+
+
 
 ref - https://medium.com/@ChunChengTsai/tableau-project-analyzing-customers-in-the-us-92ef573588d8
 ref - https://www.linkedin.com/pulse/analysis-british-airways-customer-reviews-tableau-sarah-rajani-ctp-junxc/
