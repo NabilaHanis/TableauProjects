@@ -6,7 +6,6 @@ N Company is a regional office supply retailer serving customers across multiple
 
 The client requested the development of an interactive dashboard that provides a comprehensive view of key sales metrics and performance trends. The dashboard is designed to help stakeholders evaluate year-over-year sales performance, identify emerging trends, analyze customer purchasing behavior, and support data-driven business decisions
 
-
 ## 📌 Table of Contents
 - [Business Context and Objectives](#business-context-and-objective)
 - [Key Requirements](#key-requirements)
@@ -16,9 +15,8 @@ The client requested the development of an interactive dashboard that provides a
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-A visualized dashboard enables N company to transform operational and sales data into actionable business insights. By providing real-time visibility into sales performance, inventory health, and customer purchasing trends, the dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability.
+The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights. By providing real-time visibility into sales performance, inventory health, and customer purchasing trends, the dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability.
 
-The primary goal of this dashboard was to provide a holistic overview of sales trend and customer behavior across multiple years. This will help stakeholders, executives, and marketing team to understand customer segments and improve customer satisfaction and retention.
 
 ### Objectives:
 - The Dashboard should allow clients to check historical data by offering them the flexibility to select any desired year
