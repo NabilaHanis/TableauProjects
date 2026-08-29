@@ -15,7 +15,7 @@ The client requested the development of an interactive dashboard that provides a
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights. By providing real-time visibility into sales performance, inventory health, and customer purchasing trends, the dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability.
+The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights. This dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability by providing real-time visibility.
 
 
 ### Objectives:
