@@ -45,6 +45,7 @@ Objectives:
 
 ## 📊 Data Visualization
 ![Sales Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/5c723b6bbcc2fc35efa6119778cff8b0c433780a/Sales%20and%20Customers%20Dynamic%20Dashboard/img/SalesDashboard-NCompany.png)
+\
 ![Customer Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/037b65ca54ecb67f02fc0c198fef81b204f4bea9/Sales%20and%20Customers%20Dynamic%20Dashboard/img/CustomerDashboard-NCompany.png)
 Please Feel free to explore and interact with the dashboard on my [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
 
