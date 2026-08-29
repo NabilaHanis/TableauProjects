@@ -45,7 +45,7 @@ Objectives:
 
 ## 📊 Data Visualization
 Please Feel free to explore and interact with the dashboard on my [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
-Please feel free to play with the whole dashboard on Tableau Public.
+
 
 ## 📝 Business Insights and Recommendations
 
