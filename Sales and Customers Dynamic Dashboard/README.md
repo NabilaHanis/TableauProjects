@@ -44,7 +44,8 @@ Objectives:
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
 
 ## 📊 Data Visualization
-!(Customer Dashboard)[Sales and Customers Dynamic Dashboard/img/CustomerDashboard-NCompany.png]
+![Sales Dashboard](Sales and Customers Dynamic Dashboard/img/SalesDashboard-NCompany.png)
+![Customer Dashboard](Sales and Customers Dynamic Dashboard/img/CustomerDashboard-NCompany.png)
 Please Feel free to explore and interact with the dashboard on my [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
 
 
