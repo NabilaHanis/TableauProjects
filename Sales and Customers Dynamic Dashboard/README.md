@@ -6,6 +6,7 @@ N Company is a regional office supply retailer serving customers across multiple
 
 The client requested the development of an interactive dashboard that provides a comprehensive view of key sales metrics and performance trends. The dashboard is designed to help stakeholders evaluate year-over-year sales performance, identify emerging trends, analyze customer purchasing behavior, and support data-driven business decisions.
 
+
 ## 📌 Table of Contents
 - [Business Context and Objectives](#business-context-and-objective)
 - [Key Requirements](#key-requirements)
@@ -13,6 +14,7 @@ The client requested the development of an interactive dashboard that provides a
 - [Data Visualization](#data-visualization)
 - [Business Insights and Recommendations](#business-insights-and-recommendations)
 - [Thank you](#thank-you)
+
 
 ## 💡 Business Context and Objectives
 The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights. This dashboard is ultimately drive revenue growth and profitability by providing real-time visibility.
@@ -25,23 +27,12 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 - Provide clients with the ability to navigate between the dashboards easily
 
 
- <!--
- A client requested an interactive dashboard that delivers a centralized, data-driven view of visualized data, customer behavior, and sales trend over a four year period. This dashboard will designed for executives, marketing team, stakeholders, and management to gain insights that support informed, data-driven decision-making and strategic planning. This dashboard will present an overview trends, monitor performance, uncover growth opportunities, and gain actionable insights that support informed, data-driven decision making and stragetic planning.
-
-Objectives:
-
-•	Monitor sales performance and business growth.
-•	Analyze customer behavior and engagement trends.
-•	Identify opportunities, risks, and emerging patterns.
-•	Support data-driven decision-making across the organization.
-•	Enable more effective sales, marketing, and customer retention strategies.
-
--->
-
 ## 🎯 Key Requirements
 - KPI Overview
 
+
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
+
 
 ## 📊 Data Visualization
 
@@ -60,8 +51,8 @@ Please Feel free to explore and interact with the dashboard on my [Tableau Publi
 
 ## 📝 Business Insights and Recommendations
 
+
 ## ⭐ Thank you
 Thank you for your time and interest. Please feel free to reach out to me if you have any questions  
-
 
 -End of Note by Nabila Hanis-
