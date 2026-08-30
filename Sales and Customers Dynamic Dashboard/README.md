@@ -59,6 +59,17 @@ Please Feel free to explore and interact with the dashboard on my [Tableau Publi
 
 
 ## 📝 Business Insights and Recommendations
+-	Customer Insights
+-	Total customers with YoY trend
+-	Sales per customer (efficiency)
+-	Order distribution per customer
+-	Top 10 customers by profit with recent activity
+-	Sales Insights
+-	Total sales, profit, and quantity with trendlines
+-	Sales vs. profit comparison across subcategories
+-	Weekly trends showing spikes, slumps, and averages
+-	Dynamic Filters for Deep Exploration
+
 
 
 ## ⭐ Thank you
