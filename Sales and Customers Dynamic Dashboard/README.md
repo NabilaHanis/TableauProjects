@@ -4,7 +4,7 @@
 ## 📚 Case Study
 N Company is a regional office supply retailer serving customers across multiple regions in the United States. The company offers a wide range of office products and furnishings, including desks, chairs, tables, office equipment, bookcases, storage solutions, binders, labels, envelopes, and other workplace essentials.
 
-The client requested the development of an interactive dashboard that provides a comprehensive view of key sales metrics and performance trends. The dashboard is designed to help stakeholders evaluate year-over-year sales performance, identify emerging trends, analyze customer purchasing behavior, and support data-driven business decisions
+The client requested the development of an interactive dashboard that provides a comprehensive view of key sales metrics and performance trends. The dashboard is designed to help stakeholders evaluate year-over-year sales performance, identify emerging trends, analyze customer purchasing behavior, and support data-driven business decisions.
 
 ## 📌 Table of Contents
 - [Business Context and Objectives](#business-context-and-objective)
@@ -15,7 +15,7 @@ The client requested the development of an interactive dashboard that provides a
 - [Thank you](#thank-you)
 
 ## 💡 Business Context and Objectives
-The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights. This dashboard empowers leadership to make faster, data-driven decisions, optimize inventory investments, improve customer satisfaction, and ultimately drive revenue growth and profitability by providing real-time visibility.
+The primary goal of this visualized dashboard is to enable N company to transform operational and sales data into actionable business insights, and ultimately drive revenue growth and profitability by providing real-time visibility.
 
 
 ### Objectives:
@@ -44,9 +44,12 @@ Objectives:
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
 
 ## 📊 Data Visualization
+
+### Sales Dashboard
 ![Sales Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/5c723b6bbcc2fc35efa6119778cff8b0c433780a/Sales%20and%20Customers%20Dynamic%20Dashboard/img/SalesDashboard-NCompany.png)
 \
 \
+### Customer Dashboard
 ![Customer Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/037b65ca54ecb67f02fc0c198fef81b204f4bea9/Sales%20and%20Customers%20Dynamic%20Dashboard/img/CustomerDashboard-NCompany.png)
 \
 \
@@ -76,49 +79,7 @@ Min/Max)
 🧭 Integrating navigation buttons, show/hide filters, and interactive features
 💡 Witnessing the transformation of raw data into compelling business narratives using the right tools is truly exhilarating.
 
-////////////////
 
-
-The objective of this interactive dashboard is to provide a comprehensive overview of Clients data, trends, and behaviors over a four-year period. The dashboard will enable marketing teams, sales managers, executives, and other key stakeholders to explore customer patterns, monitor sales performance, identify trends and opportunities, and gain actionable insights to support data-driven decision-making. By presenting key customer and sales metrics in an interactive and user-friendly format, the dashboard will help stakeholders better understand customer behavior, evaluate business performance, and develop effective marketing and sales strategies.
-
-Option 1: Executive Brief (Best for presentations or charters) This interactive dashboard provides stakeholders with a four-year overview of client data, trends, and sales performance. By unifying key customer metrics into an intuitive format, it empowers marketing, sales, and executive teams to uncover behavioral insights, track growth opportunities, and drive data-backed strategy.
-Option 2: Direct & Concise (Best for quick documentation or READMEs) Designed for cross-functional teams, this dashboard visualizes four years of client and sales data in an interactive layout. It enables users to monitor performance, analyze customer behavior patterns, and leverage actionable insights for strategic decision-making.
-Option 3: Bulleted Breakdown (Best for proposals or feature overviews)
-•	Purpose: Unify four years of client and sales data into an interactive visual hub.
-•	Target Audience: Executives, sales managers, and marketing teams.
-•	Key Benefits: Tracks sales performance, identifies emerging trends, and translates customer behavior into actionable growth strategies.
-
-//////////
-
-Option 1: Executive Summary (Recommended)
-
-This interactive dashboard provides a comprehensive four-year view of client data, sales performance, and customer behavior. Designed for executives, sales leaders, marketing teams, and other key stakeholders, it consolidates critical metrics into an intuitive and interactive platform. The dashboard enables users to identify trends, monitor performance, uncover growth opportunities, and gain actionable insights that support informed, data-driven decision-making and strategic planning.
-
-Option 2: Strategic & Professional
-
-The purpose of this interactive dashboard is to deliver a centralized, data-driven view of client and sales activity over a four-year period. By transforming complex data into meaningful visual insights, the dashboard empowers stakeholders to analyze customer behavior, evaluate sales performance, identify emerging trends, and make informed business decisions. This tool supports the development of effective marketing, sales, and customer engagement strategies that drive organizational growth.
-
-Option 3: Concise Overview
-
-This interactive dashboard provides stakeholders with a four-year overview of client trends, customer behavior, and sales performance. Through user-friendly visualizations and dynamic reporting, it helps teams track key metrics, identify opportunities, and make informed decisions that improve business outcomes and support strategic growth.
-
-Option 4: Business Case / Project Charter Format
-
-Purpose: Provide a unified, interactive view of four years of client and sales data.
-
-Audience: Executives, sales managers, marketing teams, and business stakeholders.
-
-Objectives:
-
-Monitor sales performance and business growth.
-Analyze customer behavior and engagement trends.
-Identify opportunities, risks, and emerging patterns.
-Support data-driven decision-making across the organization.
-Enable more effective sales, marketing, and customer retention strategies.
-
-Business Value: By consolidating key customer and sales metrics into a single, interactive dashboard, stakeholders can quickly access actionable insights, improve forecasting and planning, and make more informed strategic decisions that drive business performance.
-
-///
 From the Video:
 
 # Introduction
