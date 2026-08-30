@@ -45,7 +45,6 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 ![Customer Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/037b65ca54ecb67f02fc0c198fef81b204f4bea9/Sales%20and%20Customers%20Dynamic%20Dashboard/img/CustomerDashboard-NCompany.png)
 \
 \
-\
 Please Feel free to explore and interact with the dashboard on my [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis/viz/SalesCustomersDynamicDashboard/SalesDashboard)
 
 
