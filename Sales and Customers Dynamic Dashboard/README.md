@@ -33,7 +33,7 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 - KPI Overview
 -	Customers and Sales Trends 
 -	Product subcategory comparison 
--	Monthly and Weekly Trends for both Sales and Profit 
+-	Yearly and Monthly trends for both Sales and Profit 
 -	Customer Distribution by Number of Orders
 -	Top 10 Customers By Profit
 -	Year-over-year performance
@@ -43,6 +43,13 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 
 
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
+In Tableau, **dimensions are qualitative** categorical fields that describe data, while **measures are quantitative** numerical fields that can be calculated and aggregated. Hence, these are the list of dimension and measure values used on this dashboard:
+
+| Dimensions  | Measures |
+| ------------- | ------------- |
+| Date (Month)  | Sales  |
+| Date (Year) | Profit  |
+| Order ID  | Quantity  |
 
 
 ## 📊 Data Visualization
