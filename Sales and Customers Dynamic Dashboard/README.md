@@ -31,16 +31,15 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 
 ## 🎯 Key Requirements
 - KPI Overview
--	Sales Trends 
+-	Customers and Sales Trends 
 -	Product subcategory comparison 
--	Weekly Trends for sales & Profit 
+-	Monthly and Weekly Trends for both Sales and Profit 
 -	Customer Distribution by Number of Orders
 -	Top 10 Customers By Profit
--	Customer Trends
 -	Year-over-year performance
--	Monthly and weekly trends
 -	Product subcategory comparisons
 -	High-value customers and profit drivers
+-	Interactive and Dynamic Data Filters
 
 
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
