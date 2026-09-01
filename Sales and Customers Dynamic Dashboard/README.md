@@ -51,6 +51,9 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 | Date (Year) | Profit  |
 | Order ID  | Quantity  |
 
+### Main Parameter 
+[Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
+
 
 ## 📊 Data Visualization
 
