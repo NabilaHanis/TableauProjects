@@ -54,17 +54,18 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 ### Main Parameter 
 ![Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
 
+
+### Profit Percentage Differences
+![Profit % Diff](https://github.com/NabilaHanis/TableauProjects/blob/bc8f0c885fc13383a77ffe4a34986646d575f6ef/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Percentage%20Differences.png)
+
 ### Profit Average KPI
-!(KPI Profit AVG)[https://github.com/NabilaHanis/TableauProjects/blob/54ca7b4c9b0692a4773b2901cabaff09ff8ff679/Sales%20and%20Customers%20Dynamic%20Dashboard/img/KPI%20Profit%20AVG.png]
+![KPI Profit AVG](https://github.com/NabilaHanis/TableauProjects/blob/54ca7b4c9b0692a4773b2901cabaff09ff8ff679/Sales%20and%20Customers%20Dynamic%20Dashboard/img/KPI%20Profit%20AVG.png)
 
 
 ## 📊 Data Visualization
 
 ### Sales Dashboard
 ![Sales Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/5c723b6bbcc2fc35efa6119778cff8b0c433780a/Sales%20and%20Customers%20Dynamic%20Dashboard/img/SalesDashboard-NCompany.png)
-
-### Profit Percentage Differences
-![Profit % Diff](https://github.com/NabilaHanis/TableauProjects/blob/bc8f0c885fc13383a77ffe4a34986646d575f6ef/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Percentage%20Differences.png)
 
 ### Customer Dashboard
 ![Customer Dashboard](https://github.com/NabilaHanis/TableauProjects/blob/037b65ca54ecb67f02fc0c198fef81b204f4bea9/Sales%20and%20Customers%20Dynamic%20Dashboard/img/CustomerDashboard-NCompany.png)
