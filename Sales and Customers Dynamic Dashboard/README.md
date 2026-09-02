@@ -45,6 +45,8 @@ The primary goal of this visualized dashboard is to enable N company to transfor
 ## 🔍 Exploratory Data Analysis (EDA) and  Data Preprocessing
 In Tableau, **dimensions are qualitative** categorical fields that describe data, while **measures are quantitative** numerical fields that can be calculated and aggregated. Hence, these are the list of dimension and measure values used on this dashboard:
 
+/
+
 | Dimensions  | Measures |
 | ------------- | ------------- |
 | Date (Month)  | Sales  |
@@ -53,14 +55,16 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 
 ### Main Parameter 
 Date (Year) has been chosen as the global variable across the dashboard. By allowing the user to select any year, the dashboard become interactive and dynamically change the visual data without affecting the underlying code. 
-<br>
+
+/
+
 ![Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
 
-<br>
+/
 
 Observing how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025
 
-<br>
+/
 
 | 2024 | 2025 |
 | :---: | :---: |
