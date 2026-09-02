@@ -52,8 +52,10 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 | Order ID  | Quantity  |
 
 ### Main Parameter 
+Date (Year) has been chosen as the global variable across the dashboard. By allowing the user to select any year, the dashboard become interactive and dynamically change the visual data without affecting the underlying code. 
 ![Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
 
+Observing how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) 
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png)
 
@@ -81,6 +83,7 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 ### Profit Average KPI
 ![KPI Profit AVG](https://github.com/NabilaHanis/TableauProjects/blob/54ca7b4c9b0692a4773b2901cabaff09ff8ff679/Sales%20and%20Customers%20Dynamic%20Dashboard/img/KPI%20Profit%20AVG.png)
 
+### Filters
 
 ## 📊 Data Visualization
 
