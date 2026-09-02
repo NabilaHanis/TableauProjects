@@ -59,8 +59,8 @@ Date (Year) has been chosen as the global variable across the dashboard. By allo
 <br>
 
 Observing how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025
-![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) 
-![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png)
+<br>
+![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png)
 
 /
 /
