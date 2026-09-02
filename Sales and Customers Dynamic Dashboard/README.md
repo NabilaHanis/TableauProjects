@@ -98,6 +98,7 @@ This custom calculated field is used to compare the **Above** and **Below** aver
 ![](https://github.com/NabilaHanis/TableauProjects/blob/4a001b50cf233093022c42fb2ef7ac6c3103b7a8/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Trend%20Lines%20KPI%20Profit%20AVG.png)
 
 ### Filters
+![](https://github.com/NabilaHanis/TableauProjects/blob/7bc548a83718f852feba37dc509e97d665d1feae/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Filters.png)
 
 ## 📊 Data Visualization
 
