@@ -82,6 +82,7 @@ Observing how the data changes when user interact with the parameter (drop down 
 
 
 ### Profit Mix and Max Values
+This custom calculated field is used to show both **Maximum** and **Minimum** value shown on the same window.
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Min%20and%20Max.png)
 
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202024%20Year%20Parameter.png)
@@ -90,6 +91,7 @@ Observing how the data changes when user interact with the parameter (drop down 
 /
 
 ### Profit Average KPI
+This custom calculated field is used to calculate and compare the **Above** and **Below** threshold between current year selected and prior year
 ![KPI Profit AVG](https://github.com/NabilaHanis/TableauProjects/blob/54ca7b4c9b0692a4773b2901cabaff09ff8ff679/Sales%20and%20Customers%20Dynamic%20Dashboard/img/KPI%20Profit%20AVG.png)
 
 ### Filters
