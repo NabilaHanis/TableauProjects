@@ -53,10 +53,10 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 
 ### Main Parameter 
 Date (Year) has been chosen as the global variable across the dashboard. By allowing the user to select any year, the dashboard become interactive and dynamically change the visual data without affecting the underlying code. 
-/
+<br>
 ![Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
 
-/
+<br>
 
 Observing how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) 
