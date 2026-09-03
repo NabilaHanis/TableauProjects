@@ -62,7 +62,7 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 
 <br>
 
-Observing how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025
+Observe how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025:
 
 <br>
 
@@ -76,10 +76,12 @@ Observing how the data changes when user interact with the parameter (drop down 
 This custom calculated field is used to calculate the **Percentage of Total Profit**. This formula can also being used on total **Sales, Quantity, Orders, Customers, and Sales per Customers**.
 ![Profit % Diff](https://github.com/NabilaHanis/TableauProjects/blob/bc8f0c885fc13383a77ffe4a34986646d575f6ef/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Percentage%20Differences.png)
 
-![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png)
-![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png)
+Observe how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025:
 
-/
+| 2024 | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) |
+| :---: | :---: |
+| **2025** | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png) |
+
 /
 
 
