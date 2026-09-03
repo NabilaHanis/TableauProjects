@@ -100,6 +100,7 @@ Observe how the data changes when user interact with the **Select Year** paramet
 This custom calculated field is used to compare the **Above** and **Below** average threshold that can be shown on trend lines.
 ![KPI Profit AVG](https://github.com/NabilaHanis/TableauProjects/blob/54ca7b4c9b0692a4773b2901cabaff09ff8ff679/Sales%20and%20Customers%20Dynamic%20Dashboard/img/KPI%20Profit%20AVG.png)
 <br>
+
 Observe how the data changes when the data value changed colour when it is **Above** and **Below** average threshold on the graph:
 
 ![](https://github.com/NabilaHanis/TableauProjects/blob/4a001b50cf233093022c42fb2ef7ac6c3103b7a8/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Trend%20Lines%20KPI%20Profit%20AVG.png)
