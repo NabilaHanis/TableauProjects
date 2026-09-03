@@ -91,7 +91,7 @@ This custom calculated field is used to show both **Maximum** and **Minimum** va
 
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202024%20Year%20Parameter.png)
 ![](https://github.com/NabilaHanis/TableauProjects/blob/d188f2385cdf1baa1299b7e0ebc94525c847378f/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202025%20Year%20Parameter.png)
-/
+
 /
 
 ### Calculated Field : Average KPI
