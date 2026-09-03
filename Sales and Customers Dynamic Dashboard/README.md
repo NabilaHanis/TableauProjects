@@ -86,9 +86,14 @@ Observe how the data changes when user interact with the **Select Year** paramet
 This custom calculated field is used to show both **Maximum** and **Minimum** value shown on the same window.
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Min%20and%20Max.png)
 <br>
+Observe how the data changes when user interact with the **Select Year** parameter (drop down menu) between the year 2024 and 2025:
 
-![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202024%20Year%20Parameter.png)
-![](https://github.com/NabilaHanis/TableauProjects/blob/d188f2385cdf1baa1299b7e0ebc94525c847378f/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202025%20Year%20Parameter.png)
+| 2024 | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202024%20Year%20Parameter.png) |
+| :---: | :---: |
+| **2025** | ![](https://github.com/NabilaHanis/TableauProjects/blob/d188f2385cdf1baa1299b7e0ebc94525c847378f/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202025%20Year%20Parameter.png) |
+
+
+
 <br>
 
 ### Calculated Field : Average KPI
