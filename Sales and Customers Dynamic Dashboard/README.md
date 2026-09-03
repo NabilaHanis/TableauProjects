@@ -107,14 +107,16 @@ Observe how the data changes when the data value changed colour when it is **Abo
 <br>
 
 ### Filters
+<br>
 The dynamic filter give users abilities to do deep exploration at different granularities from the Year, Product Categories and Location
 ![](https://github.com/NabilaHanis/TableauProjects/blob/7bc548a83718f852feba37dc509e97d665d1feae/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Filters.png)
-
+<br>
+Summary of the Filter 
 | Type of Filter  | Name |
 | ------------- | ------------- |
 | Year  | Ranges between 2023-2026  |
 | Product | Category and Sub-Category  |
-| Location  | Region, State, and City  |
+| Location  | Region, State, and City within the US  |
 
 
 ## 📊 Data Visualization
