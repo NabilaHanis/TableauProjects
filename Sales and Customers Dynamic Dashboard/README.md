@@ -55,16 +55,13 @@ In Tableau, **dimensions are qualitative** categorical fields that describe data
 
 ### Main Parameter 
 **Date (Year)** has been chosen as the global variable across the dashboard. By allowing the user to select any year, the dashboard become interactive and dynamically change the visual data without affecting the underlying code. 
-
 <br>
 
 ![Year Parameter](https://github.com/NabilaHanis/TableauProjects/blob/d6696e14f0f4d1bdee88fc6b10ef738dd95c7326/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Parameter%20%5BSelect%20Year%5D.png)
-
 <br>
 
-Observe how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025:
+Observe how the data changes when user interact with the **Select Year** parameter (drop down menu) between the year 2024 and 2025:
 
-<br>
 
 | 2024 | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) |
 | :---: | :---: |
@@ -75,24 +72,24 @@ Observe how the data changes when user interact with the parameter (drop down me
 ### Calculated Field : Percentage Differences
 This custom calculated field is used to calculate the **Percentage of Total Profit**. This formula can also being used on total **Sales, Quantity, Orders, Customers, and Sales per Customers**.
 ![Profit % Diff](https://github.com/NabilaHanis/TableauProjects/blob/bc8f0c885fc13383a77ffe4a34986646d575f6ef/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Percentage%20Differences.png)
+<br>
 
-Observe how the data changes when user interact with the parameter (drop down menu) between the year 2024 and 2025:
+Observe how the data changes when user interact with the **Select Year** parameter (drop down menu) between the year 2024 and 2025:
 
 | 2024 | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202024%20Year%20Parameter.png) |
 | :---: | :---: |
 | **2025** | ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Quality%20Assurance%20Sales%20and%20percentage%20Diff%20for%202025%20Year%20Parameter.png) |
-
-/
+<br>
 
 
 ### Calculated Field : Mix and Max Values
 This custom calculated field is used to show both **Maximum** and **Minimum** value shown on the same window.
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Profit%20Min%20and%20Max.png)
+<br>
 
 ![](https://github.com/NabilaHanis/TableauProjects/blob/9a43832de06dc1e43de94e441980971b3aa9afaa/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202024%20Year%20Parameter.png)
 ![](https://github.com/NabilaHanis/TableauProjects/blob/d188f2385cdf1baa1299b7e0ebc94525c847378f/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Data%20testing%20with%202025%20Year%20Parameter.png)
-
-/
+<br>
 
 ### Calculated Field : Average KPI
 This custom calculated field is used to compare the **Above** and **Below** average threshold that can be shown on trend lines.
