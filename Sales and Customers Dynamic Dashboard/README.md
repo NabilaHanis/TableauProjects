@@ -113,11 +113,19 @@ The dynamic filter give users abilities to do deep exploration at different gran
 ![](https://github.com/NabilaHanis/TableauProjects/blob/7bc548a83718f852feba37dc509e97d665d1feae/Sales%20and%20Customers%20Dynamic%20Dashboard/img/Filters.png)
 <br>
 Summary of the Filter 
-| Type of Filter  | Name |
+| Filter Type  | Filter Name |
 | ------------- | ------------- |
-| Year  | Ranges between 2023-2026  |
-| Product | Category and Sub-Category  |
-| Location  | Region, State, and City within the US  |
+| Select Year  | 2023, 2024, 2025, 2026  |
+| Product Category | Furniture, Office Supplies, Technology  |
+| Product Sub Category | Accessories, Appliances, Art, Blinders, Bookcases, Chairs, Copiers, Envelopes, Fasteners, Furnishings, Labels, Machines, Paper, Phones, Storage, Supplies, Tables  |
+| Location Region  | Central, East, South, West  |
+| Location State  | Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Winconsin, Wyoming  |
+| Location City  | ∞  |
+
+
+
+
+
 
 
 ## 📊 Data Visualization
