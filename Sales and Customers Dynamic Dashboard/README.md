@@ -152,6 +152,26 @@ Please Feel free to explore and interact with the dashboard on my [Tableau Publi
 -	Weekly trends showing spikes, slumps, and averages
 -	Dynamic Filters for Deep Exploration
 
+2023
+-	There is no comparison on 2023 and 2022 since there is no data available
+-	Total sales shown a steady decline with huge sales spike on March, September, and November
+-	September was the highest sales of year 2023
+-	February showed the lowest sales of the year 2023
+-	Highest Total Profit for 2023 was on November, while the profit loss was in July
+-	Quantity shown a plateau but with highest Quantity on November while Lowest Quantity on January
+-	Most Subcategory products shown profit except Tables and Bookcases
+-	Sales & Profit Trends shown increasing above average net on the last quarter of 2023
+
+2024
+-	Total Sales on 2024 is 2.8% less than Total Sales on 2023
+-	Both shown Highest Sales on November and Lowest sales on February
+-	Total Profit started at negative 233.9% on January but have a Highest Profit on November with 34.3% compared to last year
+-	These trends probably due to holiday sale? and Customers returning items by January
+-	Total Quantity has similar trend from 2023 but with 5.2%
+-	On Subccategory have profit on most product except for Tables, Bookcases, and Supplies. However, Chairs, Phones, Storage, Blinders, Machines, and Fasteners are shown less Sales compared to 2023
+-	Sales Trends shown increasing above average net on the last quarter of 2023
+-	Profit Trend shown a steady above average of !1k
+
 
 
 ## ⭐ Thank you
